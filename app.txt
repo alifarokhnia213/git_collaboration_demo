@@ -1,2 +1,3 @@
-Collaboration Demo Project
+Collaboration Demo Project for Git Course.
 Version 1.0
+new feature
